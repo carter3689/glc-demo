@@ -1,11 +1,11 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: "AIzaSyDsTh0DyINqBfMN1fGQRdodtoKOPwDWhuo",
-    authDomain: "totalcapcity-landing.firebaseapp.com",
-    databaseURL: "https://totalcapcity-landing.firebaseio.com",
-    projectId: "totalcapcity-landing",
-    storageBucket: "totalcapcity-landing.appspot.com",
-    messagingSenderId: "391645627230"
+    apiKey: "AIzaSyAIRLoTMebLUsTkhAxiM87qutfmk4MRCXM",
+    authDomain: "glc-demo-90c67.firebaseapp.com",
+    databaseURL: "https://glc-demo-90c67.firebaseio.com",
+    projectId: "glc-demo-90c67",
+    storageBucket: "glc-demo-90c67.appspot.com",
+    messagingSenderId: "752574476790"
   }
 };
